@@ -304,6 +304,10 @@ where branch_name like ‘_ _ _ _ _ _’;
 Group by branch_name;
 ```
 
+Thankyou for Reading :)
+
+![img 4](https://github.com/user-attachments/assets/05fc2181-a71b-4716-82fc-692de3ccd84e)
+
 
   
 
