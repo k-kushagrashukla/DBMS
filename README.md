@@ -224,8 +224,11 @@ A Join allows you to combine rows from two or more tables based on a related col
 - Self Join
 - Outer Join
   > left join
+  
   > right join
+  
   > full outer join
+  
 ## Natural Join
 A Natural Join automatically joins two tables based on columns with the same name and data type in both tables
 ## Self Join
